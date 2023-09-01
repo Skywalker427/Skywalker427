@@ -59,7 +59,6 @@ Whether you want to discuss a potential collaboration, share insights, or simply
 
 Thanks for stopping by, and happy coding!
 
-[![GitHub followers](https://img.shields.io/github/followers/Skywalker427?style=social)](https://github.com/Skywalker427)
 
 ---
 _Stay hungry, stay foolish._
