@@ -25,22 +25,6 @@ Hello there! I'm Junaid, a passionate backend engineer with a flair for artifici
 - **AI and Machine Vision:** My journey through the world of AI has led me to explore the realms of training machine vision models and diving deep into the capabilities of large language models (LLMs) like never before.
 
 
-<!--
-- **Cloud Expertise:** With AWS as my playground, I orchestrate cloud resources to build resilient and scalable infrastructures that meet the demands of modern applications.
-
--->
-<!--
-## Projects Highlights
-
-### Machine Vision Magic
-A collection of projects where I've put my AI and machine vision skills to work. From image recognition to object detection, witness the magic of AI in action.
-
-### [Project Name]
-A showcase of my expertise in backend engineering and AI integration. This project demonstrates how I've seamlessly integrated TypeScript, Node.js, and machine learning models to deliver an intelligent application that solves [problem statement].
-
-### AWS Wonders
-Explore how I leverage AWS services to create serverless architectures, implement efficient data storage with RDS, and deploy applications with a global reach using services like AWS Lambda and API Gateway.
--->
 
 ## Let's Connect
 
